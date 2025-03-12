@@ -7,3 +7,4 @@ let anything: any = 'Hello World'
 // assignment
 let age: number
 age = 23
+

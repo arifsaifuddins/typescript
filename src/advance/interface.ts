@@ -36,3 +36,5 @@ interface FullnameFunc {
 
 const arief: FullnameFunc = (fn, ln) => fn + ln
 console.log(arief('arief', 'saifuddien'))
+const arief2: FullnameFunc = (fn, ln) => `${fn} ${ln}`
+console.log(arief2('arief', 'saifuddien'))
